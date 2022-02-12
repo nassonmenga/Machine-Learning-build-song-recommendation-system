@@ -1,0 +1,76 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,BIA,WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix],WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix,67G6iaOw8DZqp1z8STR89R,0.893,0.463,1,-5.301,1,0.36,0,0.318,0.591,81.026,229601,4
+1,City Girls,Twerkulator,Twerkulator,2Ty7EDf9XLYzEUqEIwJfDC,0.895,0.469,1,-5.882,1,0.0661,4.56e-05,0.192,0.076,126.917,138542,4
+2,Megan Thee Stallion,Something for Thee Hotties,Thot Shit,7FdmHr87G79PDRGy9SPBkZ,0.949,0.683,9,-4.242,1,0.0946,0,0.171,0.887,130.012,184635,4
+3,Cardi B,Up (Instrumental),Up,1M4OcYkxAtu3ErzSgDEfoi,0.868,0.795,11,-6.044,1,0.269,0.0193,0.0461,0.819,166.0,156945,4
+4,Megan Thee Stallion,Good News,Body,0A1hoCfMLkiAgvhWkkucJa,0.914,0.732,8,-6.1,0,0.241,0,0.107,0.469,94.066,171067,4
+5,Erica Banks,Erica Banks,Buss It,25j0Sape7qZbq6ZPLFefTT,0.956,0.502,9,-5.995,1,0.213,0,0.238,0.795,110.003,187000,4
+6,Megan Thee Stallion,Good News,Girls in the Hood,7yiSvALPjMrBLDDrbcDRNy,0.821,0.816,6,-3.835,1,0.352,0,0.0645,0.797,179.974,154389,4
+7,City Girls,City On Lock,Pussy Talk,5EzL7hGT9g2Tvqsy158Lu9,0.943,0.641,1,-5.598,1,0.191,0,0.211,0.242,99.099,218333,4
+8,Saweetie,Tap In,Tap In,4Hpib09wXgD84w4uwTPnYD,0.954,0.696,10,-7.117,0,0.204,0.000498,0.0754,0.432,100.036,139413,4
+9,City Girls,Girl Code,What We Doin',11TOnapSFVWBUSByMzf1u1,0.952,0.606,10,-5.032,1,0.0814,1.31e-06,0.327,0.305,100.434,143426,4
+10,Megan Thee Stallion,Good News,Savage Remix (feat. Beyoncé),2Z71PZlOeF9YVze4hy1A1a,0.753,0.745,10,-4.776,0,0.334,0,0.127,0.635,169.02,242001,4
+11,Megan Thee Stallion,Good News,Do It On The Tip (feat. City Girls & Hot Girl Meg),2993VQSr7a2Dj5hI5xcWG0,0.943,0.528,0,-8.631,1,0.299,0,0.0858,0.608,97.542,167370,4
+12,Doja Cat,Say So (feat. Nicki Minaj),Say So (feat. Nicki Minaj),11VApNQCWLJdzxWrlmwzUa,0.856,0.641,11,-4.64,0,0.204,4.97e-06,0.427,0.745,111.004,206221,4
+13,Doja Cat,Hot Pink,Like That (feat. Gucci Mane),4EivmOT13NMpNSfTKn9p4s,0.879,0.498,4,-6.027,0,0.18,0,0.0967,0.405,106.044,163173,4
+14,Princess Nokia,Everything Sucks,I Like Him,68UU9oaQtMDnh6PRlW842H,0.893,0.579,9,-8.995,1,0.113,0.000121,0.215,0.611,133.018,132453,4
+15,Doja Cat,Hot Pink,Cyber Sex,1ghvzmzpx2nnrbx7wtpMgo,0.917,0.657,8,-5.716,1,0.0921,3.62e-06,0.0754,0.818,131.03,165733,4
+16,BIA,FOR CERTAIN (Deluxe),BESITO (feat. G Herbo),1JTJws1FmfNRrF90bns0TT,0.841,0.394,1,-7.565,1,0.443,0,0.275,0.583,150.057,131224,4
+17,BIA,FOR CERTAIN (Deluxe),COVER GIRL,4OcWKuWjiRHgPyQ8Tretgz,0.818,0.601,1,-4.805,1,0.138,0,0.128,0.294,113.365,149498,5
+18,BIA,FOR CERTAIN (Deluxe),BIA BIA (feat. Lil Jon),4x1kiMfa2pErLo0HrU3oKl,0.734,0.793,5,-6.031,0,0.0891,0,0.203,0.427,160.002,125440,4
+19,BIA,FOR CERTAIN,SKATE,5eeNzRV0twsDptfHslE7XR,0.885,0.513,0,-7.606,1,0.271,0.000152,0.118,0.378,153.046,162780,5
+20,Nicki Minaj,Beam Me Up Scotty,Seeing Green (with Drake & Lil Wayne),1TZv3bujNaYz646eezRE91,0.573,0.867,5,-2.876,0,0.168,0,0.38,0.231,74.861,339506,4
+21,Saweetie,Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition],Best Friend (feat. Doja Cat),20BOju91NaEFK5Py4VJ2pp,0.84,0.766,4,-4.12,1,0.136,3.61e-06,0.0684,0.402,94.018,155884,4
+22,Ariana Grande,Positions (Deluxe),"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",2sQH02O2HBCPJCztBrCWNa,0.659,0.662,5,-5.768,1,0.434,0,0.228,0.704,109.957,182438,4
+23,Cardi B,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),4Oun2ylbjFKMPTiaSbbCih,0.935,0.454,1,-7.509,1,0.375,0,0.0824,0.357,133.073,187541,4
+24,Nicki Minaj,Beam Me Up Scotty,Boss Ass Bitch (with PTAF) - Remix,7eLCcnhpYGH3Y6Pqrk68Gz,0.657,0.611,1,-7.899,1,0.491,0,0.469,0.408,140.151,248832,5
+25,Saucy Santana,It's a Vibe,Walk,3YfrGk7UWFqxWeWfFp1sQE,0.937,0.684,10,-5.634,0,0.215,4.12e-05,0.0718,0.496,100.029,143977,4
+26,Rico Nasty,Nightmare Vacation,Smack A Bitch,3Zm27XyCDoAqHMGte5ydxQ,0.705,0.699,2,-2.412,1,0.226,0,0.115,0.333,169.874,138353,4
+27,Rico Nasty,Money (feat. Flo Milli),Money (feat. Flo Milli),2xo2fUrwrdOruV2zdNtWoP,0.808,0.768,8,-4.813,0,0.0499,0,0.372,0.554,124.011,150653,4
+28,Rico Nasty,Nightmare Vacation,IPHONE,00uyk8gaQQgd0NwegSF5i9,0.636,0.799,2,-4.468,1,0.261,0,0.115,0.39,148.228,158664,4
+29,City Girls,Girl Code,Act Up,3A2yGHWIzmGEIolwonU69h,0.938,0.638,8,-4.713,1,0.189,0,0.111,0.313,97.075,158332,4
+30,City Girls,Girl Code,Twerk (feat. Cardi B),0RRm4OS5ymfZryXBuj0G2m,0.788,0.842,4,-4.006,0,0.142,0.00112,0.166,0.481,190.077,166476,4
+31,Shenseea,Lick (with Megan Thee Stallion),Lick (with Megan Thee Stallion),5Q6pQ8G99rjTeCgHTMev7X,0.643,0.481,4,-7.078,1,0.551,0,0.073,0.597,85.323,166875,5
+32,French Montana,They Got Amnesia,Handstand (with Doja Cat feat. Saweetie),0JcgIOrlZ0CNUOPxyudnrK,0.786,0.551,8,-5.789,1,0.243,0,0.68,0.354,174.995,170057,4
+33,Saucy Santana,Shisha,Shisha,3C2mcvtPzGLPSai3XZPmw2,0.941,0.626,1,-6.084,1,0.369,0,0.0995,0.413,110.107,174545,4
+34,Saweetie,Icy Chain,Icy Chain,5MkPZ9VprDSFTljruLxDEd,0.882,0.751,11,-4.823,0,0.317,3.71e-05,0.077,0.736,150.059,110791,4
+35,Latto,Big Energy,Big Energy,6Zu3aw7FfjAF9WA0fA81Oq,0.935,0.807,11,-3.838,0,0.114,0,0.349,0.813,106.017,173182,4
+36,Chloe x Halle,"Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]","Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",2WKJcMeqmjkL4FzFoJszR7,0.628,0.649,5,-10.171,0,0.202,0,0.25,0.476,82.907,255181,4
+37,Latto,B*tch From Da Souf,B*tch From Da Souf,6tLWt7gkvvTSjS6OfJjiyJ,0.862,0.235,1,-15.545,1,0.699,0,0.123,0.398,150.062,144048,4
+38,Latto,Queen of Da Souf (Extended Version) [Deluxe Version],On God,5XrKzb9rA8rpdzWIzgcqlo,0.905,0.528,1,-5.116,1,0.0721,0,0.149,0.179,105.99,113238,4
+39,Flo Milli,"Ho, why is you here ?",In The Party,52BJrldggFQyTiW8XrILhO,0.919,0.609,9,-5.059,1,0.262,0,0.124,0.418,134.992,137362,4
+40,Doja Cat,Planet Her (Deluxe),Woman,1M3XB6EUPUZy58Aqt6zbKr,0.824,0.764,5,-4.175,0,0.0854,0.00294,0.117,0.881,107.998,172627,4
+41,Doja Cat,Planet Her,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,0.764,0.705,8,-3.463,1,0.0284,8.92e-05,0.12,0.781,110.97,208667,4
+42,Doja Cat,Planet Her (Deluxe),Ain't Shit,2VT56hhAcF0D3lGx9PUthf,0.855,0.488,3,-4.601,1,0.208,0,0.347,0.619,124.097,174253,4
+43,Doja Cat,Amala (Deluxe Version),Go To Town,5aHWVlzTD4n26JG6J34UsC,0.71,0.71,0,-2.474,1,0.0579,1.07e-06,0.206,0.7,169.944,217813,4
+44,Nicki Minaj,Pink Friday (Complete Edition),I’m The Best,0NmDkGHAm5iHcq7Kluz0f5,0.486,0.835,2,-5.037,1,0.335,2.74e-06,0.538,0.317,164.007,216880,4
+45,Nicki Minaj,Pink Friday (Complete Edition),Roman's Revenge,1PE8Lkg4HY530KORtjsCs7,0.809,0.946,10,-2.87,1,0.308,0,0.349,0.449,112.417,276173,4
+46,cupcakKe,Cum Cake,Deepthroat,5cXtT63OTadsjqfRkm5Dwd,0.93,0.65,0,-6.896,1,0.259,4.92e-05,0.198,0.403,98.023,199296,4
+47,cupcakKe,Grilling Niggas,Grilling Niggas,65UFucLPiVySQbDxw7zpqu,0.867,0.69,1,-5.129,1,0.197,0,0.562,0.25,150.0,175152,4
+48,cupcakKe,Audacious,Lgbt,0lsw4q8Jei7gEoV7kFe3DS,0.795,0.857,0,-8.676,0,0.162,1.76e-05,0.101,0.419,124.967,161332,4
+49,cupcakKe,Discounts,Discounts,3NILSt8vgJrRqwWkwB8das,0.791,0.81,1,-5.397,1,0.352,0,0.116,0.867,159.949,176040,4
+50,Saucy Santana,Imma Celebrity,Material Girl,6nQ1B216Liiydhgn2gar0o,0.876,0.7,2,-7.137,1,0.282,0,0.542,0.433,101.995,188966,4
+51,Saucy Santana,Outside,Here We Go,1rfLhV30aNPtov3P9eQsDR,0.977,0.749,10,-6.988,0,0.249,0,0.0551,0.772,119.937,160000,4
+52,Cardi B,Money,Money,2GGMabyHXnJmjY6CXhhB2e,0.95,0.59,8,-6.508,0,0.29,0,0.11,0.219,130.003,183527,4
+53,Cardi B,Invasion of Privacy,I Like It,58q2HKrzhC3ozto2nDdN4z,0.816,0.726,5,-3.998,0,0.129,0,0.372,0.65,136.048,253390,4
+54,Lizzo,Rumors (feat. Cardi B),Rumors (feat. Cardi B),6KgtcmCF9Ky68XC7ezxl3s,0.827,0.731,4,-5.524,0,0.088,0,0.418,0.607,118.992,172833,4
+55,Cardi B,Invasion of Privacy,Bodak Yellow,6KBYefIoo7KydImq1uUQlL,0.926,0.703,11,-6.337,0,0.103,0,0.231,0.485,125.022,223713,4
+56,Cardi B,Invasion of Privacy,Be Careful,2Yl4OmDby9iitgNWZPwxkd,0.82,0.568,6,-8.23,0,0.411,0,0.0952,0.535,152.279,210787,4
+57,Saweetie,ICY,My Type,5KBARWIxeMGkvUax9VtVC9,0.899,0.811,2,-6.294,1,0.258,0,0.0672,0.587,105.038,126446,4
+58,Saweetie,High Maintenance,ICY GRL,1sl1cpix9GnwNwaVt04BIu,0.927,0.563,7,-5.827,1,0.175,0,0.0736,0.842,103.312,109302,4
+59,Nicki Minaj,Queen,Chun-Li,1e4rwBPVI32vZtTJu7mJ4J,0.686,0.73,6,-5.077,0,0.374,4.76e-05,0.106,0.474,128.943,191600,5
+60,Nicki Minaj,Queen (Deluxe),Good Form (feat. Lil Wayne) - Remix,6supMAknraGpJrN5qqYfV8,0.898,0.733,7,-4.75,1,0.178,0.000115,0.102,0.295,96.51,237493,4
+61,Migos,Culture II,MotorSport,4wFjTWCunQFKtukqrNijEt,0.904,0.518,2,-5.32,1,0.183,0,0.325,0.188,137.996,303077,4
+62,Megan Thee Stallion,Tina Snow,Big Ole Freak,3YEbLhXRDPTtctnb3ddg8g,0.799,0.699,2,-7.694,1,0.204,0,0.132,0.627,142.979,214851,4
+63,Megan Thee Stallion,Suga,Captain Hook,1E3VQQWFQAPJkXfYHjqWoI,0.863,0.633,10,-5.002,0,0.287,0,0.285,0.545,163.991,176750,4
+64,Megan Thee Stallion,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),5N1o6d8zGcSZSeMFkOUQOk,0.872,0.814,0,-4.568,1,0.155,1.96e-06,0.214,0.57,98.985,199427,4
+65,Nicki Minaj,Beam Me Up Scotty,Beam Me Up Scotty,0f381U8m0oFfGKeIhEJk9J,0.691,0.622,4,-8.544,0,0.168,0.00103,0.256,0.604,96.122,238733,4
+66,Nicki Minaj,Beam Me Up Scotty,"Shopaholic (feat. Gucci Mane, Bobby V, & F1Jo)",1KVvVwHnGz3TPTVxQ86JDm,0.814,0.71,1,-3.383,1,0.296,0,0.337,0.627,133.069,332434,4
+67,Nicki Minaj,Pink Friday (Complete Edition),Moment 4 Life,2sUlQXHLnZLY1n6i12MzoJ,0.68,0.881,11,-3.883,1,0.237,0,0.242,0.386,97.941,279307,4
+68,Sada Baby,Whole Lotta Choppas (Remix) [feat. Nicki Minaj],Whole Lotta Choppas (Remix) [feat. Nicki Minaj],1IlJZCRthVEPlksVzj3JWY,0.956,0.72,10,-2.73,0,0.173,0,0.117,0.282,127.943,173500,4
+69,Megan Thee Stallion,Flamin’ Hottie,Flamin’ Hottie,3ZJmjmUTRCBA3UjNbFU5Ui,0.939,0.798,7,-3.885,1,0.2,0,0.105,0.948,127.136,108494,4
+70,Nicki Minaj,Yikes,Yikes,75dLEqanQTupF3dtP9exT5,0.911,0.637,8,-8.381,1,0.447,3.68e-05,0.238,0.66,149.996,156882,4
+71,Nicki Minaj,Beam Me Up Scotty,Itty Bitty Piggy,1uYxHHZBRliM9cNzCxq93g,0.761,0.722,7,-4.343,1,0.391,0,0.0649,0.798,92.45,246753,4
+72,Nicki Minaj,Do We Have A Problem?,Do We Have A Problem?,1PNs0uGru3TcrA94kpyGnc,0.842,0.505,1,-8.627,0,0.402,0.000322,0.117,0.538,119.993,207065,4
+73,Nicki Minaj,Bussin,Bussin,7lcI4X8RZxK4zIknJcwpBq,0.893,0.699,11,-8.059,1,0.0517,3.02e-06,0.128,0.747,139.972,136761,4
+74,Doja Cat,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),748mdHapucXQri7IAO8yFK,0.762,0.701,8,-3.541,1,0.0286,0.000158,0.123,0.742,110.968,208867,4
